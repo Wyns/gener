@@ -1,0 +1,11 @@
+window.Adform.Tracking.TrackingPointId = 8681477;
+window.Adform.Tracking.TrackingPointName = "Hyperoptic.com (New)|Home";
+Adform.Tracking.CreateIframeElement("https://track.adform.net/serving/container/?pm=189202&lid=8681477&ctype=0&media=0&PageName=Hyperoptic.com+(New)%7cHome&rnd=1094210688&cpref=&loc=https%3a%2f%2fhyperoptic.com%2f");try{
+(function(){
+var awMastertag = document.createElement("script");
+awMastertag.setAttribute("defer", "defer");
+awMastertag.src = (location.protocol == "http:" ? "http" : "https") + "://www.dwin1.com/5737.js";
+awMastertag.type = "text/javascript";
+document.getElementsByTagName("body")[0].appendChild(awMastertag);
+})()
+}catch(e){}

@@ -1,0 +1,315 @@
+
+.navbar{
+    color: gray;
+    background-color: white;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    border:none;
+}
+.navbar-header{
+padding-left: 50px;
+font-family: Inconsolata, ;
+}
+
+.navbar-header img{
+padding-bottom: 10px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > p > a > img {
+      width: 100%;
+      margin:auto;
+      padding-top:  50px;
+      font-size: 20px;
+      color: grey;
+      font-family: Ubuntu;
+  }
+.carousel-inner h1{
+padding-left: 30%;
+    color: grey;
+    font-size: 40px;
+    font-family: Ubuntu;
+}
+.carousel-inner h2{
+padding-left:40%;
+    color: grey;
+    font-size: 90px;
+    font-family: Bariol_Bold;
+}
+.postcode{
+    padding-left: 20px;
+    padding-right: 20px;
+text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.fixed {
+        position: fixed;
+}
+.mainpostcode{
+     background-color:#F0F0F0;
+}
+.transcost{
+    text-align: center;
+    color: white;
+    background-color: black;
+  border: 1px solid black;
+  opacity:0.8;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+    padding: 20px;
+}
+.maincost{
+    background-image: url(images/home-swoosh-extended.gif);
+    padding: 0px 0px 20px 0px;
+    margin: 0px 0px 0px 0px;
+    background-repeat: no-repeat;
+}
+.cost{
+text-align: center;
+margin-top: 50px;
+color: dimgrey;
+
+}
+.cost h3,h5{
+    margin: 0;
+  padding: 0;
+  display: inline;
+
+}
+
+
+#tabs-1 ul li{
+    font-size: 16px;
+    font-family: Ubuntu;
+}
+
+         .ui-widget-header {
+            color: red;
+            font-weight: bold;
+         }
+.tab{
+    padding: 0px 0px 0px 40px;
+    background-color: #F0F0F0;
+}
+.tabul{
+background-color: #F0F0F0;
+}
+
+.tab h3{
+    padding-left: 40px;
+    font-family: Ubuntu;
+         }
+.maintab{
+background-color: #F0F0F0;
+}
+#tabs-22{
+background-image:url('images/tabimg.jpg');
+    background-size: cover;
+    color: dimgray;
+    padding: 40px;
+    font-family: Ubuntu;
+}
+#tabs-22 h4{
+    color: dodgerblue;
+    font-family: Ubuntu;
+}
+#tabs-2{
+background-image:url('images/lapi2.jpg');
+    background-size: cover;
+    color: dimgray;
+    padding: 40px;
+    font-family: Ubuntu;
+}
+#tabs-2 h4{
+color: dodgerblue;
+    font-family: Ubuntu;
+}
+#tabs-3{
+color: grey;
+    padding-right: 40px;
+    background-color: #E8E8E8;
+    font-family: Ubuntu;
+}
+#tabs-4{
+color: dimgray;
+    background-color: white;
+    padding: 40px;
+    font-family: Ubuntu;
+ 
+}
+#tabs-4 img{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#tabs-4 ul li{
+font-size: 10px;
+    margin-left: 40px;
+    font-family: Ubuntu;
+}
+#tabs-5{
+background-color: #E0E0E0;
+    color: dimgray;
+    padding: 40px;
+    font-family: Ubuntu;
+}
+.work{
+padding: 30px 40px 0px 40px;
+    color: grey;
+    background-color: #F0F0F0 ;
+    font-size: 16px;
+    font-family: Ubuntu;
+}
+.work h1{
+color: black;
+
+}
+.work img{
+ display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.difference{
+background-color: #E8E8E8;
+    padding: 20px 40px 0px 40px;
+    margin-top: -5px;
+     color: grey;
+    font-size: 16px;
+}
+.difference h1{
+color: black;
+    font-family: Ubuntu;
+}
+.difference img{
+    margin-left: 30%;
+}
+
+.business{
+background-image: url('images/bed.jpg');
+    background-size: cover;
+    padding: 15em 0em 10em 0em;
+    color: white;
+    text-align: center;
+   font-family: Ubuntu;
+}
+.business h1,h2,p{
+    margin: 0;
+  padding-top: 0px;
+  display: block;
+
+}
+.business h2{
+  font-size: 65px;
+}
+.business p{
+    color: aquamarine;
+    text-decoration: underline;
+    font-family: Inconsolata;
+}
+.property{
+background-image: url('images/property.png');
+    background-size: cover;
+    padding: 12em 0em 15em 0em;
+    color:dimgray;
+     padding-left: 40%;
+    font-family: Ubuntu;
+}
+.textproperty h2{
+font-size: 50px;
+}
+.market{
+background-color: #E8E8E8;
+    padding: 0px 30px 20px 30px;
+    margin-top: 0px;
+    font-size: 16px;
+    font-family: Ubuntu;
+}
+.market img{
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+
+}
+hr.vertical{
+   width: 0px;
+   height: 50%; /* or height in PX */
+} 
+.vr {
+    width:2px;
+    background-color:#DCDCDC;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:430px;
+}
+hr { 
+    display: block;
+/*    border-style: inset;*/
+    border: 1px solid #DCDCDC;
+    
+}
+.about_us{
+background-image: url('images/about_us.jpg');
+    background-size: cover;
+    padding: 15em 0em 20em 0em;
+    font-family: Ubuntu;
+}
+.meet_the_team{
+background-image: url('images/team.jpg');
+    background-size: cover;
+    padding: 15em 0em 20em 0em;
+    font-family: Ubuntu;
+}
+#career{
+background-color:  #F0F0F0;
+    padding: 0px 30px 30px 30px;
+    color: grey;
+    font-family: Ubuntu;
+    
+}
+#career h1{
+ color:cornflowerblue;
+}
+.sub_career{
+background-color: #E8E8E8;
+    padding: 20px 10px 20px 10px;
+    font-family: Ubuntu;
+}
+.affiliate{
+background-image: url(images/home-swoosh-extended.gif);
+   background-color:  #F0F0F0;
+    background-size: cover;
+    padding: 120px 10px 120px 0px;
+    background-repeat: no-repeat;
+    font-family: Ubuntu;
+}
+.sub_affiliate{
+padding: 40px 30px 10px 30px;
+    background-color:  #F0F0F0;
+    color: grey;
+    font-size: 19px
+        font-family: Ubuntu;;
+}
+.sub_affiliate h5{
+color: cornflowerblue;
+}
+
+#map {
+        width: 100%;
+        height: 500px;
+      }
+
+.foot{
+    margin: 50px 40px 30px 40px;
+    font-size: 13px;
+    padding: 0px;
+}
+.footer a{
+    color: grey;
+}
+.foot h4{
+color: black;
+}
+.subfoot{
+    padding: 20px 0px 20px 30px; 
+    font-size: 10px;
+    color: gray;
+}

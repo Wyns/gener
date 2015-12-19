@@ -1,0 +1,1 @@
+__fs_dncs_instance.backendCallback({"status":"error","clear_cookie":false,"message":"No rules matches current url\/referrer"});
